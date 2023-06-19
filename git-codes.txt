@@ -25,7 +25,13 @@ git stash save "benim_stashim"
 git stash pop
 git stash drop stash@{1}
 
+
 git branch -M main
 git branch -v
+not: branch öncesinde add,commit,push yapalım.
 git branch backend
+git checkout backend
+git checkout main
+git branch -a
+git branch -D backend
 
