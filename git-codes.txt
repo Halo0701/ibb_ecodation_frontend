@@ -25,3 +25,7 @@ git stash save "benim_stashim"
 git stash pop
 git stash drop stash@{1}
 
+git branch -M main
+git branch -v
+git branch backend
+
